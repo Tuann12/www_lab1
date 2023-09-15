@@ -26,13 +26,13 @@ tương ứng
   - Kết nối với csdl, thực hiện các chức năng:
 </b>
 <br/>
-<b>1. Thêm, cập nhật, xóa ở các bảng đã cho</b><br/>
-<b>2. Đăng nhập</b><br/>
-<b>3. Hiển thị thông tin tài khoản (nếu đăng nhập thành công)</b><br/>
-<b>4. Hiển thị các quyền của một accounto</b><br/>
-<b>5. Hiển thị các account của một role</b><br/>
-<b>6. Cấp quyền cho một account</b><br/>
-<b>7. Ghi log mỗi lần account đăng nhập, đăng xuất</b><br/>
+<b>   1. Thêm, cập nhật, xóa ở các bảng đã cho</b><br/>
+<b>   2. Đăng nhập</b><br/>
+<b>   3. Hiển thị thông tin tài khoản (nếu đăng nhập thành công)</b><br/>
+<b>   4. Hiển thị các quyền của một accounto</b><br/>
+<b>   5. Hiển thị các account của một role</b><br/>
+<b>   6. Cấp quyền cho một account</b><br/>
+<b>   7. Ghi log mỗi lần account đăng nhập, đăng xuất</b><br/> <br/>
 <b>
   - Một trang html hiển thị cửa sổ đăng nhập. Nếu đăng nhập thành công và là quyền admin 
 thì hiển thị trang dashboard cho phép quản lý các account khác (bao gồm các quyền thêm, 
